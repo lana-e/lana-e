@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lana! I'm a grad student in UC Berkeley's Master of Information and Data Science program. I'm also a transgender woman, and I want to inspire others as an openly trans woman in tech :transgender_flag:
+- 👋 Hi, I’m Lana! I'm a grad student in UC Berkeley's Master of Information and Data Science program. I'm also a transgender woman, and I want to inspire others as an openly trans woman in tech!
 - 👀 I’m interested in using data science to boost social activism, environmentalism, and diversity across different fields and industries. I'm also a big film nerd!
 - 🌱 I’m currently learning a lot of data science skills and tools, both in my classes and my data science internship at ReThink Media!
 - 💞️ I’m looking to collaborate on anything! Just reach out if you would like to connect and talk about anything, code related or not.
