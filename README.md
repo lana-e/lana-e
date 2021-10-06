@@ -2,7 +2,7 @@
 - 👀 I’m interested in using data science to boost social activism, environmentalism, and diversity across different fields and industries. I'm also a big film nerd!
 - 🌱 I’m currently learning a lot of data science skills and tools, both in my classes and my data science internship at ReThink Media!
 - 💞️ I’m looking to collaborate on anything! Just reach out if you would like to connect and talk about anything, code related or not.
-- 📫 How to reach me: Follow me on [Twitter](https://twitter.com/Lana_Elauria){:target="_blank"}, [Letterboxd](https://letterboxd.com/choshacao314/){:target="_blank"}, or connect with me on [LinkedIn](www.linkedin.com/in/lana-elauria){:target="_blank"}!
+- 📫 How to reach me: Follow me on [Twitter](https://twitter.com/Lana_Elauria), [Letterboxd](https://letterboxd.com/choshacao314/), or connect with me on [LinkedIn](www.linkedin.com/in/lana-elauria)!
 
 <!---
 lana-e/lana-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
